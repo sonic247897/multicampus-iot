@@ -1,0 +1,17 @@
+package basic;
+
+public class SerialConnectionTest {
+	public SerialConnectionTest() {
+		
+	}
+	
+	public void connect(String portName) {
+	
+		
+	}
+	
+	public static void main(String[] args) {
+
+		
+	}
+}
