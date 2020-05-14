@@ -1,0 +1,11 @@
+package android.control;
+
+import java.io.BufferedReader;
+import java.net.Socket;
+
+// TCP서버 쪽에서 클라이언트의 요청을 계속 읽는 스레드
+public class ReceiverThread extends Thread{
+	Socket client;
+	BufferedReader br;
+	
+}

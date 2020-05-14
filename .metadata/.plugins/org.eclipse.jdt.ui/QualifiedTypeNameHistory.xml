@@ -3,4 +3,11 @@
 <fullyQualifiedTypeName name="basic.SerialConnectionTest"/>
 <fullyQualifiedTypeName name="gnu.io.CommPortIdentifier"/>
 <fullyQualifiedTypeName name="gnu.io.CommPort"/>
+<fullyQualifiedTypeName name="gnu.io.SerialPort"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="basic.SerialArduinoWriterThread"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="basic.SerialArduinoLEDexam"/>
+<fullyQualifiedTypeName name="exam.SerialArduinoWriterThreadexam"/>
 </qualifiedTypeNameHistroy>
