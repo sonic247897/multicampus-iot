@@ -1,0 +1,5 @@
+package serial.read;
+
+public class ArduinoSeriaReadlUsingThread {
+
+}
