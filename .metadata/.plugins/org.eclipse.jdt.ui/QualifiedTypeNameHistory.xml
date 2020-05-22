@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="basic.SerialConnectionTest"/>
-<fullyQualifiedTypeName name="gnu.io.CommPortIdentifier"/>
-<fullyQualifiedTypeName name="gnu.io.CommPort"/>
-<fullyQualifiedTypeName name="gnu.io.SerialPort"/>
 <fullyQualifiedTypeName name="basic.SerialArduinoWriterThread"/>
 <fullyQualifiedTypeName name="basic.SerialArduinoLEDexam"/>
 <fullyQualifiedTypeName name="exam.SerialArduinoWriterThreadexam"/>
@@ -13,13 +10,26 @@
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="android.control.SerialArduinoLEDControl"/>
-<fullyQualifiedTypeName name="java.io.OutputStream"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
-<fullyQualifiedTypeName name="gnu.io.SerialPortEventListener"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="gnu.io.SerialPortEvent"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="serial.read.SerialListener"/>
+<fullyQualifiedTypeName name="gnu.io.CommPortIdentifier"/>
+<fullyQualifiedTypeName name="gnu.io.SerialPortEventListener"/>
+<fullyQualifiedTypeName name="gnu.io.SerialPortEvent"/>
+<fullyQualifiedTypeName name="can.basic.SerialConnect"/>
+<fullyQualifiedTypeName name="gnu.io.CommPort"/>
+<fullyQualifiedTypeName name="gnu.io.SerialPort"/>
+<fullyQualifiedTypeName name="can.basic.SerialListener"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="can.basic.CANConnect.CanSerialWrite"/>
+<fullyQualifiedTypeName name="can.basic.CANConnect"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.INTERNAL"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="can.basic.CANReadWriteTest.CANWriteThread"/>
+<fullyQualifiedTypeName name="can.basic.CANReadWriteTest"/>
+<fullyQualifiedTypeName name="serial.SerialConnect"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
 </qualifiedTypeNameHistroy>

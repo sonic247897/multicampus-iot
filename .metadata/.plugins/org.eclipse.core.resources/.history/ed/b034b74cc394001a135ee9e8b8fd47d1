@@ -1,6 +1,0 @@
-package basic;
-
-// 키보드로 입력하는 값을 아두이노로 
-public class SerialArduinoWriterThread extends Thread{
-	
-}
